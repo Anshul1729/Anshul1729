@@ -32,7 +32,7 @@ A lot of what I build lives in the same world I work in: India's small-shop econ
 
 | Project | What it does |
 |---|---|
-| [VoiceBill](https://voicebill-c573e.web.app) | Hindi voice billing app — say "शक्कर 2 किलो 40 रुपये", AI parses it into a structured bill, WhatsApp it to your customer. Also reads handwritten bills via photo OCR. Live PWA + Android TWA. |
+| VoiceBill | Hindi voice billing app — say "शक्कर 2 किलो 40 रुपये", AI parses it into a structured bill, WhatsApp it to your customer. Also reads handwritten bills via photo OCR. Live PWA + Android TWA. |
 | MyMunim | Digital khata (ledger) PWA for shop owners — manage shops, track outstanding dues, run collection rounds. Fully in Hindi. |
 
 ### Tools for teams
