@@ -1,8 +1,28 @@
+<div align="center">
+
 # Anshul Shivhare
 
 **Growth @ [Kirana Club](https://kirana.club) &nbsp;·&nbsp; Bangalore**
 
-I'm not a programmer by training — I'm a builder by habit. I identify problems, figure out what should exist, and ship it using AI as my development partner. Most of what I build is rooted in the same world I work in: India's small-shop economy and the people running it.
+Not a programmer by training. A builder by habit.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshulshivhare)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshul1729)
+
+</div>
+
+---
+
+## What I do
+
+I identify problems, figure out what should exist, and ship it — using AI as my development partner. No CS degree. No boilerplate from scratch. Just a clear problem and the right tools to solve it fast.
+
+A lot of what I build lives in the same world I work in: India's small-shop economy. Kirana store owners who run everything on memory and paper. I try to change that.
+
+- **Hindi-first tools** for India's kirana (small retail) store owners
+- **Team AI tools** — knowledge bases, automation, catalogue generation
+- **AI infrastructure** — MCP servers, voice agents, multi-model pipelines
+- **Experiments** — whatever I'm curious about that week
 
 ---
 
@@ -12,32 +32,41 @@ I'm not a programmer by training — I'm a builder by habit. I identify problems
 
 | Project | What it does |
 |---|---|
-| [VoiceBill](https://voicebill-c573e.web.app) | Hindi voice billing for kirana shops — say "शक्कर 2 किलो 40 रुपये", AI turns it into a bill, WhatsApp it to your customer. Also reads handwritten bills via photo. |
-| MyMunim | Digital khata (ledger) PWA for shop owners — manage shops, track outstanding dues, run collection rounds, all in Hindi. |
+| [VoiceBill](https://voicebill-c573e.web.app) | Hindi voice billing app — say "शक्कर 2 किलो 40 रुपये", AI parses it into a structured bill, WhatsApp it to your customer. Also reads handwritten bills via photo OCR. Live PWA + Android TWA. |
+| MyMunim | Digital khata (ledger) PWA for shop owners — manage shops, track outstanding dues, run collection rounds. Fully in Hindi. |
 
-### Tools and utilities
+### Tools for teams
 
 | Project | What it does |
 |---|---|
-| [SecureDocAI](https://securedocai.lovable.app) | Private AI knowledge base for teams — upload docs, ask questions, generate reports. Role-based access built in. |
-| SVG Catalogue Generator | Upload an SVG template and a CSV. Get a zip of generated marketing banners — one per row. Built for marketing teams who produce dozens of banners at a time. |
-| MCP Middleware Server | Production MCP server that connects Claude to internal APIs — OAuth 2.1, PKCE auth, JWT verification, in-memory caching, auto-deployed on Render. |
+| [SecureDocAI](https://securedocai.lovable.app) | Private AI knowledge base — upload docs, ask questions, generate reports. Role-based access built in. |
+| SVG Catalogue Generator | Upload an SVG template + a CSV. Get a zip of marketing banners — one per row, auto-mapped. Built for teams producing dozens of banners at once. |
+| MCP Middleware Server | Production MCP server connecting Claude to internal APIs — OAuth 2.1 with PKCE, JWT verification, TTL caching, deployed on Render. |
 
 ### Experiments
 
 | Project | What it does |
 |---|---|
-| [CommunicationCoach](https://github.com/Anshul1729/CommunicationCoach) | Android app that passively coaches your conversations in real time using Groq Whisper + Llama 3.3 70B — entirely on free APIs. |
-| [Popcorn Peek](https://anshul1729.github.io/popcornpeek/) | Point your phone camera at a movie poster. Get the IMDb rating instantly. |
-| [Roast Your LinkedIn](https://github.com/Anshul1729/roast-your-linkedin) | Paste a LinkedIn URL. Get absolutely destroyed by Claude — then hear it out loud via ElevenLabs. |
+| [CommunicationCoach](https://github.com/Anshul1729/CommunicationCoach) | Android app that passively coaches your conversations in real time — Groq Whisper + Llama 3.3 70B, entirely on free APIs. |
+| [Popcorn Peek](https://anshul1729.github.io/popcornpeek/) | Point your camera at a movie poster. Get the IMDb rating instantly. |
+| [Roast Your LinkedIn](https://github.com/Anshul1729/roast-your-linkedin) | Paste a LinkedIn URL. Get destroyed by Claude — then hear it via ElevenLabs. |
 
 ---
 
 ## How I build
 
-No CS degree. I use AI — Claude, Gemini, Llama, Groq — not just as a chatbot but as a co-developer. The ideas come from real problems. The execution happens fast because I'm not writing boilerplate from scratch.
+AI is my co-developer, not just a search engine. I use it to go from rough idea to working product — Claude for reasoning and code review, Gemini and Groq for fast inference, and a standard React/Firebase/Supabase stack for everything in prod.
 
-**Tools I reach for most:** Claude &nbsp;·&nbsp; Gemini 2.5 &nbsp;·&nbsp; Groq / Llama &nbsp;·&nbsp; React + TypeScript &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Android
+![Claude](https://img.shields.io/badge/-Claude-000?&logo=anthropic)
+![Gemini](https://img.shields.io/badge/-Gemini-000?&logo=google)
+![Groq](https://img.shields.io/badge/-Groq-000?&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iOCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 
 ---
 
@@ -45,8 +74,14 @@ No CS degree. I use AI — Claude, Gemini, Llama, Groq — not just as a chatbot
 
 Journalist by training. Product thinker by practice. Builder by curiosity.
 
-By day I lead growth at Kirana Club — a commerce platform connecting India's 10 million kirana stores to digital ordering, logistics, and payments. By side-project hours, I'm figuring out what AI makes possible that wasn't possible before.
+By day I lead growth at [Kirana Club](https://kirana.club) — a commerce platform connecting India's kirana stores to digital ordering, logistics, and payments. By side-project hours, I'm figuring out what AI makes possible that wasn't possible a year ago.
 
 ---
 
-*Open to conversations about product, growth, and building with AI.*
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshul1729&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true)
+
+**Open to conversations about product, growth, and building with AI.**
+
+</div>
