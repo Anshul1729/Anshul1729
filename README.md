@@ -39,7 +39,7 @@ A lot of what I build lives in the same world I work in: India's small-shop econ
 
 | Project | What it does |
 |---|---|
-| [SecureDocAI](https://securedocai.lovable.app) | Private AI knowledge base — upload docs, ask questions, generate reports. Role-based access built in. |
+| SecureDocAI | Private AI knowledge base — upload docs, ask questions, generate reports. Role-based access built in. |
 | SVG Catalogue Generator | Upload an SVG template + a CSV. Get a zip of marketing banners — one per row, auto-mapped. Built for teams producing dozens of banners at once. |
 | MCP Middleware Server | Production MCP server connecting Claude to internal APIs — OAuth 2.1 with PKCE, JWT verification, TTL caching, deployed on Render. |
 
