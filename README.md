@@ -2,12 +2,15 @@
 
 # Anshul Shivhare
 
-**Growth @ [Kirana Club](https://kirana.club) &nbsp;·&nbsp; Bangalore**
+**Growth @ [Kirana Club](https://kirana.club) &nbsp;·&nbsp; 📍 Bangalore**
 
 *Not a programmer by training. A builder by habit.*
 
+**Turning problems into live products — with AI as my co-developer.**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-shivhare)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anshul1729)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshulshivhare3@gmail.com)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Anshul_xyz)
 
 </div>
 
