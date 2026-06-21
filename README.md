@@ -30,13 +30,27 @@ problem  →  what should exist  →  shipped  →  what's next
 
 ---
 
-## ◆ Things I've built
+## ◆ Recently shipped
+
+> The latest things I've put into people's hands — all live, try them.
+
+**🎨 ColorFit** — Chrome extension that recommends clothes matching your skin tone, enriched with Gemini Vision. Works across Myntra, Amazon, Flipkart & Ajio.
+<br>[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Live-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/colorfit/faekacojomfmboifaephgfcdnjlmnpnc)
+
+**💳 cardCircle** — Social credit-card sharing PWA for trusted friend circles. Pool perks, always reach for the right card at checkout.
+<br>[![Live App](https://img.shields.io/badge/Live-cardcircle.web.app-0077B5?style=flat-square&logo=pwa&logoColor=white)](https://cardcircle.web.app/)
+
+**🗣️ VoiceBill** — Hindi voice billing for kirana shops. Say *"शक्कर 2 किलो 40 रुपये"*, AI builds a structured bill, WhatsApp it over. Also reads handwritten bills via photo OCR.
+<br>[![Live App](https://img.shields.io/badge/Live-voicebill.web.app-0077B5?style=flat-square&logo=firebase&logoColor=white)](https://voicebill-c573e.web.app)
+
+---
+
+## ◆ More things I've built
 
 ### 🏪 For India's kirana economy
 
 | Project | What it does |
 |---|---|
-| **[VoiceBill](https://voicebill-c573e.web.app)** | Hindi voice billing app — say *"शक्कर 2 किलो 40 रुपये"*, AI parses it into a structured bill, WhatsApp it to your customer. Also reads handwritten bills via photo OCR. Live PWA + Android TWA. |
 | **MyMunim** | Digital khata (ledger) PWA for shop owners — manage shops, track outstanding dues, run collection rounds. Fully in Hindi. |
 
 ### 🛠️ Tools for teams
@@ -51,8 +65,6 @@ problem  →  what should exist  →  shipped  →  what's next
 
 | Project | What it does |
 |---|---|
-| **Fashion Buddy** | Chrome extension that recommends clothes matching your skin tone, enriched with Gemini Vision. Works on Myntra, Amazon, Flipkart & Ajio. |
-| **cardCircle** | Social credit-card sharing PWA for trusted friend circles — pool perks, never miss the right card for the right purchase. |
 | **[CommunicationCoach](https://github.com/Anshul1729/CommunicationCoach)** | Android app that passively coaches your conversations in real time — Groq Whisper + Llama 3.3 70B, entirely on free APIs. |
 | **[Popcorn Peek](https://anshul1729.github.io/popcornpeek/)** | Point your camera at a movie poster. Get the IMDb rating instantly. |
 | **[Roast Your LinkedIn](https://github.com/Anshul1729/roast-your-linkedin)** | Paste a LinkedIn URL. Get destroyed by Claude — then hear it via ElevenLabs. |
@@ -83,10 +95,6 @@ Product & growth person who builds with AI. By day I lead growth at [Kirana Club
 ---
 
 <div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshul1729&hide_border=true&background=00000000&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshul1729&show_icons=true&hide_border=true&count_private=true&theme=default&hide_title=true)
 
 **Open to conversations about product, growth, and building with AI.**
 
