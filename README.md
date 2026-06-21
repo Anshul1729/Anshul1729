@@ -32,11 +32,23 @@ problem  →  what should exist  →  shipped  →  what's next
 
 ## ◆ Recently shipped &nbsp;·&nbsp; <sub>all live, try them</sub>
 
-| Project | What it does |
-|---|---|
-| 🎨 **[ColorFit ↗](https://chromewebstore.google.com/detail/colorfit/faekacojomfmboifaephgfcdnjlmnpnc)** | Chrome extension that recommends clothes matching your skin tone (Gemini Vision). Live on the Chrome Web Store. |
-| 💳 **[cardCircle ↗](https://cardcircle.web.app/)** | Social credit-card sharing PWA for trusted friend circles — always reach for the right card at checkout. |
-| 🗣️ **[VoiceBill ↗](https://voicebill-c573e.web.app)** | Hindi voice billing for kirana shops — speak the items, AI builds the bill, WhatsApp it over. |
+### 🎨 ColorFit &nbsp;—&nbsp; [Live on the Chrome Web Store ↗](https://chromewebstore.google.com/detail/colorfit/faekacojomfmboifaephgfcdnjlmnpnc)
+*Shop online for clothes that actually suit your skin tone.*
+- Builds a color profile from a selfie — undertone, depth, seasonal type — via **Gemini 2.5 Flash**
+- On the page, **green-borders** what flatters you and **dims** what doesn't, with a score on every card
+- Privacy-first: selfie processed in memory and never stored; scoring runs entirely in your browser. Works on Myntra, Amazon, Flipkart & Ajio
+
+### 💳 cardCircle &nbsp;—&nbsp; [cardcircle.web.app ↗](https://cardcircle.web.app/)
+*The right credit card for every purchase, borrowed from people you trust.*
+- Friends declare the cards they hold; you discover who in your circle has the one with the discount you need
+- **Mutual-contact trust graph** — hashed phone numbers, auto-connects only when both sides have each other (Signal/Truecaller pattern)
+- Card details **AES-256 encrypted** at rest, decrypted server-side only in short windows. Next.js + Firebase, shipped to Play Store via Capacitor
+
+### 🗣️ VoiceBill &nbsp;—&nbsp; [voicebill.web.app ↗](https://voicebill-c573e.web.app)
+*Hindi voice billing for kirana shops — speak the items, AI builds the bill.*
+- Say *"शक्कर 2 किलो 40 रुपये"* → **Groq / Llama-3.3** extracts a structured bill
+- Snap a handwritten bill and **Gemini 2.5 Flash** reads it via OCR
+- One-tap WhatsApp share, phone-OTP auth, Firestore history — installable PWA + Android TWA
 
 ---
 
