@@ -30,18 +30,13 @@ problem  →  what should exist  →  shipped  →  what's next
 
 ---
 
-## ◆ Recently shipped
+## ◆ Recently shipped &nbsp;·&nbsp; <sub>all live, try them</sub>
 
-> The latest things I've put into people's hands — all live, try them.
-
-**🎨 ColorFit** — Chrome extension that recommends clothes matching your skin tone, enriched with Gemini Vision. Works across Myntra, Amazon, Flipkart & Ajio.
-<br>[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Live-1a73e8?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/colorfit/faekacojomfmboifaephgfcdnjlmnpnc)
-
-**💳 cardCircle** — Social credit-card sharing PWA for trusted friend circles. Pool perks, always reach for the right card at checkout.
-<br>[![Live App](https://img.shields.io/badge/Live-cardcircle.web.app-0077B5?style=flat-square&logo=pwa&logoColor=white)](https://cardcircle.web.app/)
-
-**🗣️ VoiceBill** — Hindi voice billing for kirana shops. Say *"शक्कर 2 किलो 40 रुपये"*, AI builds a structured bill, WhatsApp it over. Also reads handwritten bills via photo OCR.
-<br>[![Live App](https://img.shields.io/badge/Live-voicebill.web.app-0077B5?style=flat-square&logo=firebase&logoColor=white)](https://voicebill-c573e.web.app)
+| Project | What it does |
+|---|---|
+| 🎨 **[ColorFit ↗](https://chromewebstore.google.com/detail/colorfit/faekacojomfmboifaephgfcdnjlmnpnc)** | Chrome extension that recommends clothes matching your skin tone (Gemini Vision). Live on the Chrome Web Store. |
+| 💳 **[cardCircle ↗](https://cardcircle.web.app/)** | Social credit-card sharing PWA for trusted friend circles — always reach for the right card at checkout. |
+| 🗣️ **[VoiceBill ↗](https://voicebill-c573e.web.app)** | Hindi voice billing for kirana shops — speak the items, AI builds the bill, WhatsApp it over. |
 
 ---
 
